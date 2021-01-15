@@ -25,7 +25,6 @@ using std::string;
 using std::vector;
 using std::default_random_engine;
 using std::normal_distribution;
-using std::discrete_distribution;
 
 void ParticleFilter::init(double x, double y, double theta, double std[]) {
   /**
